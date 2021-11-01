@@ -1,0 +1,15 @@
+----------------------------------------------------------------
+Wed Oct 20 20:16:46 CST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-017c-9da1-e8c4-00009d59ac60 
+on database directory /home/spark/spark-2.4.6/core/metastore_db with class loader sun.misc.Launcher$AppClassLoader@c2e1f26 
+Loaded from file:/home/spark/mvnRepo3.5.4/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_261-b12
+user.dir=/home/spark/spark-2.4.6/core
+os.name=Linux
+os.arch=amd64
+os.version=3.10.0-1127.18.2.el7.x86_64
+derby.system.home=null
+Warning: The database is booted with derby.system.durability=test. In this mode, it is possible that database may not be able to recover, committed transactions may be lost, database may be in an inconsistent state. Please use this mode only when these consequences are acceptable  
+
+Database Class Loader started - derby.database.classpath=''
